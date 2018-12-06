@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Online Store</string>
+    <string name="form_label_marca">Marca</string>
+    <string name="form_label_sistema">Sistema</string>
+    <string name="form_label_processador">Processador</string>
+    <string name="form_label_usado">Usado</string>
+    <string name="form_label_on">On</string>
+    <string name="form_label_off">Off</string>
+
+    <string name="form_radio_desktop">Desktop</string>
+    <string name="form_radio_notebook">Notebook</string>
+
+    <string name="form_seebbar_memoria">Memória Ram</string>
+
+
+
+</resources>
